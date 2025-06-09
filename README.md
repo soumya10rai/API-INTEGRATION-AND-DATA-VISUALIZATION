@@ -68,3 +68,6 @@ The project helped me understand the end-to-end flow of working with REST APIs a
 **Conclusion**
 This task gave me a solid foundation in API integration and basic data visualization using Python. It fulfilled all the internship requirements, and I now feel more confident in working with real-world data and building dashboards. It was an enriching and practical experience that aligned well with my learning goals and the internship objectives.
 
+*OUTPUT*: 
+
+![Image](https://github.com/user-attachments/assets/7698c53c-fd36-4c34-9d1b-4cdfbe932fc9)
